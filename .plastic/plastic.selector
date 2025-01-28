@@ -1,0 +1,4 @@
+repository "2DGame@Ersm_Studio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
